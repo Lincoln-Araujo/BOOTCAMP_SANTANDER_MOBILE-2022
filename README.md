@@ -1,11 +1,11 @@
 
-# BOOTCAMP_SANTANDER_mobile
+# :fire: BOOTCAMP_SANTANDER_mobile :bank:
 
-### Olá, meu nome é Lincoln Araujo.
+### :wave: Olá, meu nome é Lincoln Araujo :wave:
 
 ##### Brasiliense, millenium, geek e amante de tecnologia,
 
-##### e estou me especializando em DESENVOLVIMENTO MOBILE ANDROID.
+##### e estou me especializando em DESENVOLVIMENTO MOBILE ANDROID :iphone: :space_invader: 
 
 ## INFO
 
@@ -13,17 +13,17 @@
 
 ##### que tive contato durante o bootcamp Santander - Desenvolvimento Mobile 2022
 
-<div><br/>
-    <p>Vamos nos conectar!</p></br>
+<div>
+    <p>Vamos nos conectar!</p>
     <a href="https://www.linkedin.com/in/lincolnaraujo/" target="_blank">
 	<img alt="linkedin" src="./images/icon_linkedin.png"/>
     </a><br/>
-    <p>Um Bootcamp da</p></br>
+    <p>Um Bootcamp da</p>
     <a href="https://www.becas-santander.com/pt_br/index.html" target="_blank">
 	<img alt="becas santander" src="./images/santander_becas.png"/>
     </a><br/>
-    <p>Com o estimado apoio da</p></br>  
-    <a href="https://www.becas-santander.com/pt_br/index.html" target="_blank">
+    <p>Com o estimado apoio da</p>  
+    <a href="https://www.dio.me/en?ref=dioed" target="_blank">
 	<img alt="digital innovation one" src="./images/logo_dio.png"/>
     </a><br/>  
 </div>
