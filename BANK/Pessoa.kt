@@ -1,10 +1,6 @@
-class Pessoa {
-    var nome: String = "Duncan"
-    var cpf: String = "415326894"
-}
+abstract class Pessoa(
+    val nome: String,
+    val cpf: String
+)
 
-fun main() {
-    val duncan = Pessoa()
-    println(duncan.nome)
-    println(duncan.cpf)
-}
+
