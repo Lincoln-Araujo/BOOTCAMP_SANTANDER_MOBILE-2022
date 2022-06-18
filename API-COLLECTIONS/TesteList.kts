@@ -1,7 +1,7 @@
 fun main(){
-    val duncan = Funcionario("Duncan", 1000.0)
-    val lincoln = Funcionario("Lincoln", 3000.0)
-    val dunkin = Funcionario("Dunkin", 5000.0)
+    val duncan = Funcionario("Duncan", 10000.0)
+    val lincoln = Funcionario("Lincoln", 8000.0)
+    val dunkin = Funcionario("Dunkin", 9000.0)
 
     val funcionarios = listOf(duncan, lincoln, dunkin)
 
@@ -9,7 +9,13 @@ fun main(){
 
     println("______________")
 
-    println(funcionarios.find{it.nome == "dDnkin"})
+    println(funcionarios.find{it.nome == "Dunkin"})
+
+    println("______________")
+    // imprimindo uma lista organizada do menor salario para o maior
+    funcionarios
+        .sortedBy { it.salario }
+        .forEach { println(it) }
 }
 
 data class Funcionario(
