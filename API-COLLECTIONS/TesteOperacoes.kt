@@ -13,4 +13,14 @@ fun main() {
     val salariosMaiorQue2500 = salarios.filter { it > 2500.0 }
     println("_____________")
     salariosMaiorQue2500.forEach { println(it)}
+
+    println("_____________")
+    println(salarios.count { it in 2000.0..5000.0})
+
+    println("_____________")
+    println(salarios.find { it == 2250.0 })
+    println(salarios.find { it == 50.0 })
+
+    println("_____________")
+    println(salarios.any { it == 1000.0})
 }
